@@ -4,7 +4,7 @@ import FooterComponent from './components/FooterComponent';
 import HeaderComponent from './components/HeaderComponent';
 import ListEmployeeComponent from './components/ListEmployeeComponent';
 import './App.css';
-import {BrowserRouter as Router,Route,Routes} from 'react-router-dom';
+import {HashRouter as Router,Route,Routes} from 'react-router-dom';
 import AddEmployeeComponent from './components/AddEmployeeComponent';
 
 function App() {
